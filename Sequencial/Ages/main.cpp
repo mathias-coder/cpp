@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -24,10 +25,6 @@ int main()
     media = (double)(idade1 + idade2) / 2;
 
     cout << "A idade media de " << nome1 << " e " << nome2 << " e de " << media << " anos." << endl;
-
-
-
-
 
     return 0;
 }
